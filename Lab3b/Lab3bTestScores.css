@@ -1,0 +1,50 @@
+
+div{
+    text-align: top center;
+    justify-content: center;
+    width: 300px;
+    background-color: yellow;
+    font-weight: 900;
+  }
+
+li {
+    width: 500px;
+    border-radius: 35px 10em 10%;
+    background: orange; 
+  }
+
+p {color:red;
+    
+       margin: 50px;
+       font-family: helvetica;
+       font-weight: bold;
+       font-weight: 900;
+}
+h2{
+    text-align: left;
+    font-style:italic;
+    color: palevioletred;
+    font-weight: normal;
+}
+
+body {
+    
+     background-color: lightblue;
+     background-image: url("lab3bimage.jpg");
+     background-repeat: no-repeat;
+     background-position: right top;
+     margin-right: 200px;
+    color: var(--fontColor);
+    font-family: helvetica;
+  }
+
+  footer {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    color:black;
+    font-family: helvetica;
+    font-weight: bold;
+    font-weight: 900;
+
+}

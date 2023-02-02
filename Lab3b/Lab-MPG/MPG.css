@@ -1,0 +1,31 @@
+h1{
+    float: top;
+    text-align: top center;
+    font-style: normal;
+    color:blue;
+    
+    }
+    body{
+        text-align: var(--left);
+    }
+
+h2{
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: bottom center;
+    font-weight: 100;
+    justify-content: left;
+           
+      color: black;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+padding-top: 50px;
+margin: 50px;
+}
+main{
+    font-family: 'Times New Roman', Times, serif;
+
+}
